@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TMTApplication</string>
+    <string name="no_results_were_found">No results were found</string>
+    <string name="try_again">Try Again</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="network_error">"Something went wrong, Please check your internet connection"</string>
+</resources>
